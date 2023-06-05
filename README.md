@@ -2,7 +2,7 @@
 
 I am a ~~shrubber~~ programmer. My name is Valeriy.
 
-My chief interest is Rust 🦀...Rust and spicy food 🌶️...spicy food and Rust.... My two interests are spicy food and Rust...and cats 🐈.... My *three* interests are spicy food, Rust, and cats...and an almost fanatical desire to land a job 💰.... My *four*...no... *Amongst* my interests...are such elements as spicy food, Rust.... I'll come in again.
+My chief interest is Rust 🦀...Rust and spicy food 🌶️...spicy food and Rust.... My two interests are spicy food and Rust...and cats 🐈.... My *three* interests are spicy food, Rust, and cats...and an almost fanatical desire to **land a job** 💰.... My *four*...no... *Amongst* my interests...are such elements as spicy food, Rust.... I'll come in again.
 
 `:q!`
 
