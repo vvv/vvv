@@ -6,6 +6,9 @@ My chief interest is Rust 🦀...Rust and spicy food 🌶️...spicy food and Ru
 
 `:q!`
 
+![](https://github-readme-stats.vercel.app/api?username=vvv&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvv&count_private=true&hide=perl&layout=compact)
+
 [🧑‍💻 Hire me](https://github.com/vvv/cv).
 
 <!--
